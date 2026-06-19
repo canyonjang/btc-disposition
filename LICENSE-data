@@ -1,0 +1,15 @@
+Data license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The files in the ./data directory are made available under the Creative
+Commons Attribution 4.0 International License. You are free to share and adapt
+them for any purpose, provided you give appropriate credit (cite the paper and
+this repository) and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:          https://creativecommons.org/licenses/by/4.0/
+
+Provenance: all behavioural data in ./data are aggregated derivatives of the
+public Google BigQuery dataset `bigquery-public-data.crypto_bitcoin`, produced
+by the queries documented in the paper's Supplementary Material (Section S4).
+The two price series are daily BTC/USD closes from CoinMarketCap and Bitstamp,
+redistributed here in aggregated daily form for reproduction purposes.

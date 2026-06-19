@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "Identifying the Disposition Effect on the Bitcoin Blockchain: Real but Regime-Specific (replication package)"
+type: software
+authors:
+  - family-names: "[Last name]"
+    given-names: "[First name]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-01-01"
+license: MIT
+repository-code: "https://github.com/[user]/btc-disposition-frl"
+preferred-citation:
+  type: article
+  title: "Identifying the Disposition Effect on the Bitcoin Blockchain: Real but Regime-Specific"
+  authors:
+    - family-names: "[Last name]"
+      given-names: "[First name]"
+  journal: "Finance Research Letters"
+  year: 2026
+  # volume: ""
+  # doi: ""
