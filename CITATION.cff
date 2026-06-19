@@ -9,7 +9,8 @@ authors:
 version: "1.0.0"
 date-released: "2026-01-01"
 license: MIT
-repository-code: "https://github.com/[user]/btc-disposition-frl"
+doi: "10.5281/zenodo.20759420"
+repository-code: "https://github.com/canyonjang/btc-disposition"
 preferred-citation:
   type: article
   title: "Identifying the Disposition Effect on the Bitcoin Blockchain: Real but Regime-Specific"

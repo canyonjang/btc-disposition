@@ -1,5 +1,7 @@
 # Disposition effect on the Bitcoin blockchain — replication package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20759420.svg)](https://doi.org/10.5281/zenodo.20759420)
+
 Replication code and data for **"Identifying the Disposition Effect on the
 Bitcoin Blockchain: Real but Regime-Specific."**
 
@@ -14,7 +16,7 @@ indistinguishable from one.
 ## Quickstart
 
 ```bash
-git clone https://github.com/[user]/btc-disposition-frl.git
+git clone https://github.com/canyonjang/btc-disposition.git
 cd btc-disposition-frl
 pip install -r requirements.txt
 python reproduce.py          # regenerates all estimates and table numbers
@@ -89,3 +91,5 @@ consistent with a disposition effect.
 ## Citation
 
 See `CITATION.cff`. Please cite both the paper and this replication package.
+The archived version of this package is available at
+[https://doi.org/10.5281/zenodo.20759420](https://doi.org/10.5281/zenodo.20759420).
