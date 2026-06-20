@@ -3,9 +3,10 @@ message: "If you use this code or data, please cite the paper and this repositor
 title: "Identifying the Disposition Effect on the Bitcoin Blockchain: Real but Regime-Specific (replication package)"
 type: software
 authors:
-  - family-names: "[Last name]"
-    given-names: "[First name]"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Jang"
+    given-names: "Kyoungyoung"
+    orcid: "https://orcid.org/0009-0003-9743-8657"
+    affiliation: "Department of Consumer Science, Inha University"
 version: "1.0.0"
 date-released: "2026-01-01"
 license: MIT
@@ -15,8 +16,8 @@ preferred-citation:
   type: article
   title: "Identifying the Disposition Effect on the Bitcoin Blockchain: Real but Regime-Specific"
   authors:
-    - family-names: "[Last name]"
-      given-names: "[First name]"
+    - family-names: "Jang"
+      given-names: "Kyoungyoung"
   journal: "Finance Research Letters"
   year: 2026
   # volume: ""
