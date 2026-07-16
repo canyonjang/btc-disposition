@@ -1,24 +1,24 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the paper and this repository."
-title: "Identifying the Disposition Effect on the Bitcoin Blockchain: Real but Regime-Specific (replication package)"
+title: "Age composition biases on-chain realization measures: Evidence from Bitcoin (replication package)"
 type: software
 authors:
   - family-names: "Jang"
     given-names: "Kyoungyoung"
     orcid: "https://orcid.org/0009-0003-9743-8657"
     affiliation: "Department of Consumer Science, Inha University"
-version: "1.0.0"
-date-released: "2026-01-01"
+version: "2.0.0"
+date-released: "2026-07-17"
 license: MIT
 doi: "10.5281/zenodo.20759420"
 repository-code: "https://github.com/canyonjang/btc-disposition"
 preferred-citation:
   type: article
-  title: "Identifying the Disposition Effect on the Bitcoin Blockchain: Real but Regime-Specific"
+  title: "Age composition biases on-chain realization measures: Evidence from Bitcoin"
   authors:
     - family-names: "Jang"
       given-names: "Kyoungyoung"
-  journal: "Finance Research Letters"
   year: 2026
+  # journal: ""   # 게재 확정 후 채우기
   # volume: ""
   # doi: ""
