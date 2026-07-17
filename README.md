@@ -1,6 +1,6 @@
 # Age composition biases on-chain realization measures — replication package
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20759420.svg)](https://doi.org/10.5281/zenodo.20759420)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20759419.svg)](https://doi.org/10.5281/zenodo.20759419)
 
 Replication code and data for **"Age composition biases on-chain realization
 measures: Evidence from Bitcoin."**
@@ -121,4 +121,4 @@ the pivotal year.
 ## Citation
 
 See `CITATION.cff`. Please cite both the paper and this replication package. The
-archived version is available at <https://doi.org/10.5281/zenodo.20759420>.
+archived version is available at <https://doi.org/10.5281/zenodo.20759419>.
