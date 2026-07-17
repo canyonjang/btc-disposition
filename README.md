@@ -94,9 +94,10 @@ CITATION.cff                 citation metadata
 All behavioural data are aggregated derivatives of the public BigQuery dataset
 `bigquery-public-data.crypto_bitcoin`, aggregated by creation day and spend day
 — no individual addresses or transactions are stored. The creation floor is
-2018-08-23, the common start of continuous daily price coverage. The bundled
-files cover 2021–2025; the queries that regenerate them from scratch are in the
-paper's Supplementary Material (Section S4).
+2018-08-23, the common start of continuous daily price coverage. 
+The bundled files cover 2021–2025 and are the sole inputs to every script
+in this repository. The BigQuery extraction queries that regenerate the
+bundled files from scratch are provided in `sql/`.
 
 ## Method in one paragraph
 
