@@ -10,7 +10,7 @@ authors:
 version: "2.0.0"
 date-released: "2026-07-17"
 license: MIT
-doi: "10.5281/zenodo.20759420"
+doi: "10.5281/zenodo.20759419"
 repository-code: "https://github.com/canyonjang/btc-disposition"
 preferred-citation:
   type: article
